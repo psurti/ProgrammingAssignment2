@@ -1,4 +1,5 @@
-## 
+## Author: P. Surti - R Programming Assignment 3 
+##
 ## This function computes the inverse of the special
 ## matrix returned by makeCacheMatrix call. If the
 ## inverse has already been calculated ( and the
